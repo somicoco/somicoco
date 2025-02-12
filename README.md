@@ -1,16 +1,11 @@
-## Hi there 👋
+### 👋 반갑습니다!
+![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://lead-sunday-7c4.notion.site/198ac194eab780509a9efa60b5670556)
 
-<!--
-**somicoco/somicoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀 성장하는 주니어 플러터 개발자입니다.
+* 🎨 사용자 경험을 고민하며 UI/UX 디자인에 관심이 많습니다.
+* 🔍 나만의 길을 찾기 위해 도전하고 있습니다.
+ 
+### 언어 및 도구
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma&perline=3" height="30"/>
+</a>
